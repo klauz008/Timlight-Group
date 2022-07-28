@@ -17,26 +17,26 @@ const Footer = () => {
         <div className="__footer-links">
           <div className="__footer-links_logo">
             <img src={logo} alt="_logo" />
-            <p>Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved</p>
           </div>
           <div className="__footer-links_div">
             <h4>Links</h4>
-            <p>Overons</p>
+            <p>Overview</p>
             <p>Social Media</p>
-            <p>Counters</p>
+            <p>Legal</p>
             <p>Contact</p>
           </div>
           <div className="__footer-links_div">
             <h4>Company</h4>
             <p>Terms & Conditions </p>
             <p>Privacy Policy</p>
-            <p>Contact</p>
+            <p>Legal</p>
           </div>
           <div className="__footer-links_div">
             <h4>Get in touch</h4>
-            <p>Crechterwoord K12 182 DK Alknjkcb</p>
-            <p>085-132567</p>
-            <p>info@payme.net</p>
+            <p>Suite 17 De choice Plaza, Zarmaganda</p>
+            <p>Jos, Plateau State</p>
+            <p>0805-13256789</p>
+            <p>info@timlight.ng</p>
           </div>
         </div>
 
